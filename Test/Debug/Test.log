@@ -1,0 +1,5 @@
+﻿  main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\user\OneDrive\Documents\MyProgram\Win32MFC\Test\main.cpp(266,99): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\user\OneDrive\Documents\MyProgram\Win32MFC\Test\main.cpp(266,54): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+  Test.vcxproj -> C:\Users\user\OneDrive\Documents\MyProgram\Win32MFC\Debug\Test.exe
