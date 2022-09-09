@@ -7,7 +7,10 @@ Link to MFC documentation: [https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop
 ![mfc](https://user-images.githubusercontent.com/62833626/189067399-1291aed4-cef6-431d-a3fa-bfbff864931b.jpeg)
 
 
-## Installation and Run the Project
+## Installation and run the project
+
+
+ <!--- ## Dubugging ## Design Pattern ---> 
 
 
 ## License
