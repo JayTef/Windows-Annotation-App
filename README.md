@@ -16,7 +16,9 @@ Link to MFC documentation: [https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop
 
 ### Run the project
 
-Choose script\magicProject as the root directory in IntelliJ
+1. Choose Windows-Annotation-App as the root directory in Visual Studio
+2. Open **Win32MFC/main.cpp** and click **Set as Startup Item**
+3. Run the program (Ctrl + F5)
 
 
  <!--- ## Dubugging ## Design Pattern ---> 
