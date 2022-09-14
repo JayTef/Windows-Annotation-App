@@ -9,6 +9,15 @@ Link to MFC documentation: [https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop
 
 ## Setup instructions
 
+### Environment requirements
+
+- Windows 10 or newer
+- Visual Studio 2019 or newer 
+
+### Run the project
+
+Choose script\magicProject as the root directory in IntelliJ
+
 
  <!--- ## Dubugging ## Design Pattern ---> 
 
