@@ -1,6 +1,6 @@
 # Windows-Annotation-App
 
-We are developing a windows anotation app that allows direct anotation on the desktop, using Microsoft Foundation Class(MFC) and Graphc Device Interface(GDI). You are welcome to contribute to this open-source project, especially if you are interested in or have experience with MFC.
+We are developing a windows annotation app that allows direct anotation on the desktop, using Microsoft Foundation Class(MFC) and Graphc Device Interface(GDI). You are welcome to contribute to this open-source project, especially if you are interested in or have experience with MFC.
 
 Link to MFC documentation: [https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170](https://docs.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications?view=msvc-170) 
 
